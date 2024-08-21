@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-08-21T08:01:46.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="BZ8bOTx9BDgqkP0vb55g" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-21T08:16:45.312Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="kHvu2W34I61cmakoVPiK" version="24.7.1" type="github">
   <diagram name="第 1 页" id="etxN5k3zQMKWn7ETlEiA">
-    <mxGraphModel dx="1529" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1835" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,7 +155,7 @@
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-41" value="" style="shape=mxgraph.signs.tech.mail;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="212" y="270" width="13.2" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="pYHzNuqsy9S1iBBT5UZr-46" value="ISPADMIN.MFGBYBU&lt;div&gt;_PLAN_DLOH_ALCBYBU_IS_V&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-46" value="&lt;div&gt;ispadmin.mfgbybu&lt;/div&gt;&lt;div&gt;_plan_dloh_alcbybu_is_v&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="130" y="890" width="200" height="160" as="geometry" />
         </mxCell>
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-47" value="MFG 資料" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-46">
@@ -180,7 +180,7 @@
           <mxGeometry x="450.00215739663713" y="419.99711142787527" as="geometry" />
         </mxCell>
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-54" value="fin_ma.gfin_fas_ds_is" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1830" y="990" width="330" height="200" as="geometry" />
+          <mxGeometry x="2150" y="980" width="330" height="200" as="geometry" />
         </mxCell>
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-55" value="保存單一&amp;amp;最新&amp;amp;完整的 IS BY BU 資料" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-54">
           <mxGeometry y="30" width="330" height="30" as="geometry" />
@@ -189,7 +189,7 @@
           <mxGeometry y="60" width="330" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-58" value="fin_ma.gfin_fas_ds_is_h" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1990" y="780" width="180" height="150" as="geometry" />
+          <mxGeometry x="2310" y="770" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-59" value="IS by BU 歷史資料 (多版)。會存各種異動，因此不一定是每週三定版後的資料。" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-58">
           <mxGeometry y="30" width="180" height="50" as="geometry" />
@@ -198,7 +198,7 @@
           <mxGeometry y="80" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-61" value="gds.gfin_fas_ds_is_dtl" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2220" y="990" width="330" height="200" as="geometry" />
+          <mxGeometry x="1920" y="730" width="330" height="200" as="geometry" />
         </mxCell>
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-62" value="OneDB。保存單一&amp;amp;最新&amp;amp;完整的 IS BY BU 資料" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-61">
           <mxGeometry y="30" width="330" height="30" as="geometry" />
@@ -264,6 +264,21 @@
         </mxCell>
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-78" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#330000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.settings;" vertex="1" parent="1">
           <mxGeometry x="1124" y="415.5" width="9" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-87" value="FCST_MFG_EXP" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneFillColor=default;" vertex="1" parent="1">
+          <mxGeometry x="410" y="925" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-88" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;類型轉換&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;非固定 → MFG_人旅材維業&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;固定&amp;nbsp; &amp;nbsp; &amp;nbsp;→ MFG_折舊攤銷&lt;/span&gt;&lt;span style=&quot;text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-87">
+          <mxGeometry y="30" width="190" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-89" value="gfinm.gfin_fas_ds_is_dtl_t" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;swimlaneFillColor=none;fillColor=default;strokeColor=default;" vertex="1" parent="1">
+          <mxGeometry x="750" y="870" width="330" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-90" value="保存單一&amp;amp;最新&amp;amp;完整的 IS BY BU 資料" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;swimlaneFillColor=none;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-89">
+          <mxGeometry y="30" width="330" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-91" value="&lt;i&gt;item&lt;/i&gt;" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;swimlaneFillColor=none;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-89">
+          <mxGeometry y="60" width="330" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
