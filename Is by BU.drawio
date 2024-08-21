@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-08-21T07:41:27.374Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="VmT9VGBVUsMYwPOaVv6h" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-21T08:01:46.171Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="BZ8bOTx9BDgqkP0vb55g" version="24.7.1" type="github">
   <diagram name="第 1 页" id="etxN5k3zQMKWn7ETlEiA">
-    <mxGraphModel dx="1835" dy="976" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1529" dy="813" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -16,22 +16,22 @@
         <mxCell id="K1ED98VOA-ZCDDROWKwn-11" value="&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&lt;span style=&quot;text-align: center; text-wrap: nowrap; background-color: rgb(255, 255, 255);&quot;&gt;Data Imported&lt;/span&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;CDMS 資料存到&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;IS by BU FPS資料表&lt;/font&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="K1ED98VOA-ZCDDROWKwn-10" vertex="1">
           <mxGeometry y="30" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="K1ED98VOA-ZCDDROWKwn-18" value="gfinm.gfin_is_fcst_fps_dtl" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="K1ED98VOA-ZCDDROWKwn-18" value="gfinm.gfin_is_fcst_fps_dtl" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="760" y="170" width="180" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="K1ED98VOA-ZCDDROWKwn-19" value="FPS 資料。包含 Model、PART_NO等" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="K1ED98VOA-ZCDDROWKwn-18" vertex="1">
+        <mxCell id="K1ED98VOA-ZCDDROWKwn-19" value="FPS 資料。包含 Model、PART_NO等" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="K1ED98VOA-ZCDDROWKwn-18" vertex="1">
           <mxGeometry y="30" width="180" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="K1ED98VOA-ZCDDROWKwn-20" value="&lt;span style=&quot;font-style: italic;&quot;&gt;sales_amount_twd (Revenue)&lt;/span&gt;&lt;div style=&quot;font-style: italic;&quot;&gt;total_area&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(Area)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;std_dm_amt_tw&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;(Material)&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-style: italic;&quot;&gt;std_osp_amt_tw (Outsourcing)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="K1ED98VOA-ZCDDROWKwn-18" vertex="1">
+        <mxCell id="K1ED98VOA-ZCDDROWKwn-20" value="&lt;span style=&quot;font-style: italic;&quot;&gt;sales_amount_twd (Revenue)&lt;/span&gt;&lt;div style=&quot;font-style: italic;&quot;&gt;total_area&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;(Area)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;std_dm_amt_tw&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;(Material)&lt;/i&gt;&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-style: italic;&quot;&gt;std_osp_amt_tw (Outsourcing)&lt;/div&gt;" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="K1ED98VOA-ZCDDROWKwn-18" vertex="1">
           <mxGeometry y="70" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="K1ED98VOA-ZCDDROWKwn-22" value="ispadmin.cdms_revenue_dtl" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="K1ED98VOA-ZCDDROWKwn-22" value="ispadmin.cdms_revenue_dtl" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="130" y="412" width="180" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="K1ED98VOA-ZCDDROWKwn-23" value="CDMS 資料" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="K1ED98VOA-ZCDDROWKwn-22" vertex="1">
+        <mxCell id="K1ED98VOA-ZCDDROWKwn-23" value="CDMS 資料" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="K1ED98VOA-ZCDDROWKwn-22" vertex="1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="K1ED98VOA-ZCDDROWKwn-24" value="&lt;span style=&quot;font-style: italic;&quot;&gt;sales_amount_twd&lt;/span&gt;&lt;div style=&quot;font-style: italic;&quot;&gt;total_area&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-style: italic;&quot;&gt;std_dm_amt_tw&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-style: italic;&quot;&gt;std_osp_amt_tw&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="K1ED98VOA-ZCDDROWKwn-22" vertex="1">
+        <mxCell id="K1ED98VOA-ZCDDROWKwn-24" value="&lt;span style=&quot;font-style: italic;&quot;&gt;sales_amount_twd&lt;/span&gt;&lt;div style=&quot;font-style: italic;&quot;&gt;total_area&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-style: italic;&quot;&gt;std_dm_amt_tw&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-style: italic;&quot;&gt;std_osp_amt_tw&lt;/div&gt;" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="K1ED98VOA-ZCDDROWKwn-22" vertex="1">
           <mxGeometry y="60" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="K1ED98VOA-ZCDDROWKwn-26" value="這個BU需&lt;div style=&quot;font-size: 11px;&quot;&gt;移轉計價(SDM)?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=11;" parent="1" vertex="1">
@@ -127,12 +127,6 @@
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.125;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.995;exitY=0.113;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="K1ED98VOA-ZCDDROWKwn-24" target="K1ED98VOA-ZCDDROWKwn-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pYHzNuqsy9S1iBBT5UZr-28" value="CDMS 系統" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="150" y="200" width="100" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="pYHzNuqsy9S1iBBT5UZr-29" value="FPS 系統" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="200" width="100" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-30" value="" style="endArrow=classic;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;endFill=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="250" y="226.11" as="sourcePoint" />
@@ -161,22 +155,22 @@
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-41" value="" style="shape=mxgraph.signs.tech.mail;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="212" y="270" width="13.2" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="pYHzNuqsy9S1iBBT5UZr-46" value="ISPADMIN.MFGBYBU&lt;div&gt;_PLAN_DLOH_ALCBYBU_IS_V&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-46" value="ISPADMIN.MFGBYBU&lt;div&gt;_PLAN_DLOH_ALCBYBU_IS_V&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="130" y="890" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="pYHzNuqsy9S1iBBT5UZr-47" value="MFG 資料" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-46">
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-47" value="MFG 資料" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-46">
           <mxGeometry y="40" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pYHzNuqsy9S1iBBT5UZr-48" value="&lt;div&gt;&lt;i&gt;1. 非固定費用:&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;直接人工,&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;材料費用,&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;維護費用,&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;間接人工,&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;旅運費用,&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;業務費用&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;2. 固定費用&lt;/i&gt;&lt;/div&gt;&lt;div&gt;折舊攤銷, 固定費用, 租金&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-46">
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-48" value="&lt;div&gt;&lt;i&gt;1. 非固定費用:&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;直接人工,&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;材料費用,&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;維護費用,&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;間接人工,&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;旅運費用,&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;業務費用&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;2. 固定費用&lt;/i&gt;&lt;/div&gt;&lt;div&gt;折舊攤銷, 固定費用, 租金&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-46">
           <mxGeometry y="70" width="200" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="pYHzNuqsy9S1iBBT5UZr-49" value="BP" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-49" value="BP" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fillColor=default;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="130" y="1200" width="200" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="pYHzNuqsy9S1iBBT5UZr-50" value="BP" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-49">
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-50" value="BP" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-49">
           <mxGeometry y="40" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pYHzNuqsy9S1iBBT5UZr-51" value="&lt;div&gt;&lt;i&gt;ITEM&lt;/i&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-49">
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-51" value="&lt;div&gt;&lt;i&gt;ITEM&lt;/i&gt;&lt;/div&gt;" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-49">
           <mxGeometry y="70" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-52" value="每週變動: FPS MFG" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -186,7 +180,7 @@
           <mxGeometry x="450.00215739663713" y="419.99711142787527" as="geometry" />
         </mxCell>
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-54" value="fin_ma.gfin_fas_ds_is" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="720" width="330" height="200" as="geometry" />
+          <mxGeometry x="1830" y="990" width="330" height="200" as="geometry" />
         </mxCell>
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-55" value="保存單一&amp;amp;最新&amp;amp;完整的 IS BY BU 資料" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-54">
           <mxGeometry y="30" width="330" height="30" as="geometry" />
@@ -195,7 +189,7 @@
           <mxGeometry y="60" width="330" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-58" value="fin_ma.gfin_fas_ds_is_h" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1500" y="510" width="180" height="150" as="geometry" />
+          <mxGeometry x="1990" y="780" width="180" height="150" as="geometry" />
         </mxCell>
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-59" value="IS by BU 歷史資料 (多版)。會存各種異動，因此不一定是每週三定版後的資料。" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-58">
           <mxGeometry y="30" width="180" height="50" as="geometry" />
@@ -204,7 +198,7 @@
           <mxGeometry y="80" width="180" height="70" as="geometry" />
         </mxCell>
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-61" value="gds.gfin_fas_ds_is_dtl" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1730" y="720" width="330" height="200" as="geometry" />
+          <mxGeometry x="2220" y="990" width="330" height="200" as="geometry" />
         </mxCell>
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-62" value="OneDB。保存單一&amp;amp;最新&amp;amp;完整的 IS BY BU 資料" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-61">
           <mxGeometry y="30" width="330" height="30" as="geometry" />
@@ -213,7 +207,7 @@
           <mxGeometry y="60" width="330" height="140" as="geometry" />
         </mxCell>
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-64" value="gds.gfin_fas_ds_is_bwr_hist" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2120" y="720" width="330" height="200" as="geometry" />
+          <mxGeometry x="2610" y="990" width="330" height="200" as="geometry" />
         </mxCell>
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-65" value="每週三主管最後定版的 IS BY BU 資料" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-64">
           <mxGeometry y="30" width="330" height="30" as="geometry" />
@@ -224,7 +218,7 @@
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-67" value="Cal_CostDownRatio" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;swimlaneFillColor=default;" vertex="1" parent="1">
           <mxGeometry x="985" y="532" width="200" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="pYHzNuqsy9S1iBBT5UZr-68" value="1. 要計算因 BOM 影響到的成本項&lt;div&gt;2. 更新cd_dm_amt_tw&lt;i style=&quot;background-color: initial;&quot;&gt;(&lt;/i&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;CD_&lt;/i&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;Material)&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;、cd_osp_amt_tw&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-style: italic;&quot;&gt;(&lt;/span&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;CD_&lt;/i&gt;&lt;span style=&quot;background-color: initial; font-style: italic;&quot;&gt;Outsourcing)&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-67">
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-68" value="1. 計算因 BOM 漲跌影響的成本&lt;div&gt;2. 更新cd_dm_amt_tw&lt;i style=&quot;background-color: initial;&quot;&gt;(&lt;/i&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;CD_&lt;/i&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;Material)&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;、cd_osp_amt_tw&lt;/span&gt;&lt;span style=&quot;background-color: initial; font-style: italic;&quot;&gt;(&lt;/span&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;CD_&lt;/i&gt;&lt;span style=&quot;background-color: initial; font-style: italic;&quot;&gt;Outsourcing)&lt;/span&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-67">
           <mxGeometry y="30" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-72" value="" style="endArrow=classic;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;startArrow=classic;startFill=1;endFill=1;" edge="1" parent="1">
@@ -232,6 +226,44 @@
             <mxPoint x="945" y="590" as="sourcePoint" />
             <mxPoint x="985" y="590" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-79" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1085" y="464" as="sourcePoint" />
+            <mxPoint x="1084.83" y="533" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-81" value="BOM" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pYHzNuqsy9S1iBBT5UZr-79">
+          <mxGeometry x="-0.5129" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-82" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="170" y="247" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-28" value="CDMS 系統" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="200" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-75" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#330000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.settings;" vertex="1" parent="1">
+          <mxGeometry x="238" y="203" width="9" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-84" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="390" y="247" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-29" value="FPS 系統" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="200" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-76" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#330000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.settings;" vertex="1" parent="1">
+          <mxGeometry x="458" y="203" width="9" height="9" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-86" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;size=10;" vertex="1" parent="1">
+          <mxGeometry x="1055" y="460" width="60" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-77" value="新一系統" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1035" y="412" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-78" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#330000;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.settings;" vertex="1" parent="1">
+          <mxGeometry x="1124" y="415.5" width="9" height="9" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
