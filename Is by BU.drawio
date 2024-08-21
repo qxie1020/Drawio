@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-08-21T10:14:54.064Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="zQGIfgCG0n8hLoTlWwTA" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-21T10:25:04.772Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="sZhlKAS_eZtyrgMRXdlU" version="24.7.1" type="github">
   <diagram name="第 1 页" id="etxN5k3zQMKWn7ETlEiA">
-    <mxGraphModel dx="1807" dy="995" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="732" dy="403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -161,7 +161,7 @@
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-50" value="CDMS 系統資料" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-49">
           <mxGeometry y="40" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pYHzNuqsy9S1iBBT5UZr-51" value="&lt;div&gt;&lt;i&gt;ITEM&lt;/i&gt;&lt;/div&gt;" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-49">
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-51" value="&lt;i&gt;SUPT_人旅材維業,&amp;nbsp;&lt;/i&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;SUPT_折舊攤銷,&amp;nbsp;&lt;/i&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;Royalty,&amp;nbsp;&lt;/i&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;Sample,&amp;nbsp;&lt;/i&gt;&lt;i style=&quot;background-color: initial;&quot;&gt;Warranty, OPEX_人旅材維業, OPEX_折舊攤銷&lt;/i&gt;" style="text;strokeColor=default;fillColor=default;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-49">
           <mxGeometry y="70" width="200" height="90" as="geometry" />
         </mxCell>
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-52" value="每週變動: FPS MFG&lt;div&gt;實結的資料是每月第四個工作天上傳&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
