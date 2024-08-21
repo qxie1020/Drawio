@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-08-21T05:53:00.903Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="KRicA57crWPXfL-IGHwA" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-08-21T05:57:53.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="0xFSvHUM26V7mUaHLoO5" version="24.7.1" type="github">
   <diagram name="第 1 页" id="etxN5k3zQMKWn7ETlEiA">
-    <mxGraphModel dx="1223" dy="651" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="1668" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
         <mxCell id="K1ED98VOA-ZCDDROWKwn-24" value="&lt;span style=&quot;font-style: italic;&quot;&gt;sales_amount_twd&lt;/span&gt;&lt;div style=&quot;font-style: italic;&quot;&gt;total_area&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-style: italic;&quot;&gt;std_dm_amt_tw&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;font-style: italic;&quot;&gt;std_osp_amt_tw&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="K1ED98VOA-ZCDDROWKwn-22" vertex="1">
           <mxGeometry y="60" width="180" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="K1ED98VOA-ZCDDROWKwn-26" value="BU需&lt;div&gt;移轉計價?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="K1ED98VOA-ZCDDROWKwn-26" value="這個BU需&lt;div&gt;移轉計價?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="600" y="432.5" width="110" height="95" as="geometry" />
         </mxCell>
         <mxCell id="K1ED98VOA-ZCDDROWKwn-27" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=1.012;exitY=0.059;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="K1ED98VOA-ZCDDROWKwn-11" target="K1ED98VOA-ZCDDROWKwn-26" edge="1">
@@ -69,19 +69,19 @@
             <mxPoint x="-44" y="-19" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pYHzNuqsy9S1iBBT5UZr-2" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;exitX=0.515;exitY=1.004;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="K1ED98VOA-ZCDDROWKwn-20" target="pYHzNuqsy9S1iBBT5UZr-5">
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-2" value="" style="endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;exitX=0.498;exitY=0.99;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="K1ED98VOA-ZCDDROWKwn-20" target="pYHzNuqsy9S1iBBT5UZr-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="960" y="535.5" as="sourcePoint" />
             <mxPoint x="1065" y="432.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-5" value="Cal_SDM_TP" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="773" y="375" width="160" height="90" as="geometry" />
+          <mxGeometry x="760" y="360" width="180" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="pYHzNuqsy9S1iBBT5UZr-6" value="1.&amp;nbsp;R0:FPS 代表不用計算的資料&lt;div&gt;2. 料號屬性會影響計算方式&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-5">
-          <mxGeometry y="30" width="160" height="60" as="geometry" />
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-6" value="1.&amp;nbsp;R0:FPS 代表不用計算的資料&lt;div&gt;2. 料號屬性會影響計算方式&lt;/div&gt;&lt;div&gt;(Make, Buy, 外購 Panel, 外購 ARTOSET)&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-5">
+          <mxGeometry y="30" width="180" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="pYHzNuqsy9S1iBBT5UZr-7" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;exitX=0.515;exitY=1.004;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" target="pYHzNuqsy9S1iBBT5UZr-8">
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-7" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;rounded=0;endSize=8;startSize=8;exitX=0.5;exitY=1.008;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="pYHzNuqsy9S1iBBT5UZr-6" target="pYHzNuqsy9S1iBBT5UZr-8">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="849.8" y="465" as="sourcePoint" />
             <mxPoint x="849.8" y="510" as="targetPoint" />
@@ -141,7 +141,7 @@
             <mxPoint x="199.71" y="412" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pYHzNuqsy9S1iBBT5UZr-43" value="Data Confirmed" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pYHzNuqsy9S1iBBT5UZr-32">
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-43" value="Data Confirmed By BU&lt;div&gt;(One by One)&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="pYHzNuqsy9S1iBBT5UZr-32">
           <mxGeometry x="-0.037" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -153,13 +153,13 @@
           <mxGeometry x="212" y="270" width="13.2" height="10" as="geometry" />
         </mxCell>
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-46" value="ISPADMIN.MFGBYBU&lt;div&gt;_PLAN_DLOH_ALCBYBU_IS_V&lt;/div&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="130" y="750" width="180" height="180" as="geometry" />
+          <mxGeometry x="130" y="750" width="200" height="180" as="geometry" />
         </mxCell>
         <mxCell id="pYHzNuqsy9S1iBBT5UZr-47" value="MFG 資料" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-46">
-          <mxGeometry y="40" width="180" height="30" as="geometry" />
+          <mxGeometry y="40" width="200" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="pYHzNuqsy9S1iBBT5UZr-48" value="&lt;div&gt;&lt;i&gt;1. 非固定費用:&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;直接人工、&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;材料費用、&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;維護費用、&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;間接人工、&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;旅運費用、&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;業務費用&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;2. 固定費用&lt;/i&gt;&lt;/div&gt;&lt;div&gt;折舊攤銷、固定費用、租金&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-46">
-          <mxGeometry y="70" width="180" height="110" as="geometry" />
+        <mxCell id="pYHzNuqsy9S1iBBT5UZr-48" value="&lt;div&gt;&lt;i&gt;1. 非固定費用:&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;直接人工,&amp;nbsp;&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;材料費用,&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;維護費用,&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;間接人工,&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;旅運費用,&amp;nbsp;&lt;/i&gt;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;i&gt;業務費用&lt;/i&gt;&lt;/span&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;2. 固定費用&lt;/i&gt;&lt;/div&gt;&lt;div&gt;折舊攤銷, 固定費用, 租金&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="pYHzNuqsy9S1iBBT5UZr-46">
+          <mxGeometry y="70" width="200" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
